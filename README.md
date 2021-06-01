@@ -10,7 +10,7 @@
 
 ### 2.1 Hotel booking demand, 酒店预订需求
 
-数据集：Hotel booking demand
+数据集：Hotel booking demand [(download)](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 
 该数据集包含城市酒店和度假酒店的预订信息，包括预订时间、停留时间，成人/儿童/婴儿人数以及可用停车位数量等信息。
 
@@ -28,7 +28,7 @@
 
 ### 2.2 Video Game Sales 电子游戏销售分析
 
-数据集：Video Game Sales
+数据集：Video Game Sales [(download)](https://www.kaggle.com/gregorut/videogamesales)
 
 该数据集包含游戏名称、类型、发行时间、发布者以及在全球各地的销售额数据。
 
@@ -45,7 +45,7 @@
 
 ### 2.3 US Accidents 美国交通事故分析（2016-2019）
 
-数据集：US Accidents
+数据集：US Accidents [(download)](https://www.kaggle.com/sobhanmoosavi/us-accidents)
 
 该数据集覆盖全美49州的全国性交通事故数据集，时间跨度：2016.02-2019。12，包括事故严重程度、事故开始和结束时间，事故地点、天气、温度、湿度等数据。
 
