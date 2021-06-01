@@ -74,23 +74,9 @@
     报告：附件，word，pdf，html格式都可以
 ```
 
-# 选择的数据集介绍
+# 所选任务
 
-## Trending YouTube Video Statistics [(download)](https://www.kaggle.com/datasnaek/youtube-new)
-
-* Description: 
-
-    该数据集包含有关YouTube每日热门视频的数月（且在不断增加）的数据。包含美国，GB，DE，CA和FR地区（分别为美国，英国，德国，加拿大和法国）的数据，每天最多列出200个趋势视频。
-    
-    YouTube会在平台上不断更新热门视频的列表。 为了确定本年度最热门的视频，YouTube使用了多种因素，包括衡量用户的互动情况(观看次数，分享次数，评论和喜欢的次数)。
-    
-    数据集包括video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count属性。
-
-* Contents:
-    ```
-    US_category_id.json
-    USvideos.csv
-    ```
+Video Game Sales 电子游戏销售分析
 
 # 使用说明
-下载数据集并更新代码里的数据集路径，然后使用jupyter notebook 打开MutualEvaluationHomework_2.ipynb文件，运行指定cell，即可得到相应可视化结果。或者用pycharm运行MutualEvaluationHomework_2.py文件。
+下载数据集并更新代码里的数据集路径，然后使用jupyter notebook 打开MutualEvaluationHomework_3.ipynb文件，运行指定cell，即可得到相应可视化结果。或者用pycharm运行MutualEvaluationHomework_3.py文件。
